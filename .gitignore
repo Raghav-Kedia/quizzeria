@@ -1,0 +1,51 @@
+# =========================
+# Node.js / Frontend
+# =========================
+node_modules/
+dist/
+build/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.env
+.env.local
+.firebase/
+.firebaserc
+rollup.cache
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Backend / PHP
+# =========================
+# Ignore any local config or session/cache files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# If you use Composer (for future PHP package management)
+vendor/
+composer.lock
+
+# XAMPP or server-specific files
+xamppfiles/
+htdocs/.DS_Store
+
+# =========================
+# Optional: Test coverage
+# =========================
+coverage/
+.nyc_output/
+
+# =========================
+# Firebase (optional)
+# =========================
+firebase-debug.log
