@@ -123,12 +123,6 @@ const firebaseConfig = {
 
 ---
 
-## 📄 License
-
-MIT License. Free for personal and academic use.
-
----
-
 ## 🤝 Credits
 
 Made with 💜 by [Raghav Kedia](https://github.com/raghav-kedia)
