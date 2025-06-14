@@ -99,9 +99,9 @@ const firebaseConfig = {
 
 ## 📸 Screenshots
 
-| Login                  | Home                  | Create Quiz               | Attempt Quiz                   |
-| ---------------------- | --------------------- | ------------------------- | ------------------------------ |
-| ![](Preview/login.png) | ![](Preview/home.png) | ![](Preview/new_quiz.png) | ![](Preview/attempt_quiz.png)) |
+| Login                  | Home                  | Create Quiz               | Attempt Quiz                  |
+| ---------------------- | --------------------- | ------------------------- | ----------------------------- |
+| ![](Preview/login.png) | ![](Preview/home.png) | ![](Preview/new_quiz.png) | ![](Preview/attempt_quiz.png) |
 
 ---
 
